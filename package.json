@@ -1,0 +1,20 @@
+{
+  "name": "my_precious_spa",
+  "version": "1.0.0",
+  "description": "Desafio n° 6 para la generación 86 de DesafioLatam!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "[ES]"
+  ],
+  "author": "Francisco Arce",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  }
+}
